@@ -22,4 +22,4 @@ $ ./hello
 Hello World!
 ```
 
-All the example code is refereced from [Offical Website](http://rustbyexample.com/index.html)
+All the example code is referenced from [Offical Website](http://rustbyexample.com/index.html)
